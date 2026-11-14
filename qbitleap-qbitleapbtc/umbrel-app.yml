@@ -3,7 +3,7 @@ manifestVersion: 1
 id: qbitleap-qbitleapbtc
 name: QBitLeap BTC
 tagline: Run Qbit merge mining on Umbrel
-icon: https://raw.githubusercontent.com/qbitleap/qbitleapbtc-umbrel/main/qbitleap-qbitleapbtc/icon.svg
+icon: https://raw.githubusercontent.com/qbitleap/qbitleapbtc/main/qbitleap-qbitleapbtc/icon.svg
 category: Bitcoin
 version: "0.5.18"
 port: 8080
@@ -18,9 +18,9 @@ description: >-
 developer: QBitLeap
 website: https://github.com/Qbit-Foundation/qbit-mining-bootstrap
 submitter: QBitLeap
-submission: https://github.com/qbitleap/qbitleapbtc-umbrel
-repo: https://github.com/qbitleap/qbitleapbtc-umbrel
-support: https://github.com/qbitleap/qbitleapbtc-umbrel/issues
+submission: https://github.com/qbitleap/qbitleapbtc
+repo: https://github.com/qbitleap/qbitleapbtc
+support: https://github.com/qbitleap/qbitleapbtc/issues
 
 gallery: []
 
